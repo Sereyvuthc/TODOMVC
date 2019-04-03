@@ -1,0 +1,29 @@
+{
+  "name": "todosexo1",
+  "version": "1.0.0",
+  "description": "exo sur le site todoMVC.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sereyvuthc/TODOMVC.git"
+  },
+  "author": "Sereyvuth CHUM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sereyvuthc/TODOMVC/issues"
+  },
+  "homepage": "https://github.com/Sereyvuthc/TODOMVC#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
